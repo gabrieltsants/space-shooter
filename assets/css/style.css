@@ -70,13 +70,13 @@ body {
   cursor: pointer;
 }
 
-
 #theHead{
   margin: auto;
   color: rgb(5, 185, 5);
   font-size: 2em;
   font-family: "Courier New";
 }
+
 #credits{
   margin: auto;
   color: rgb(0, 255, 0);
@@ -85,6 +85,7 @@ body {
   display: none;
   background-color: inherit;
 }
+
 #backBtn{
   display: none;
 }
